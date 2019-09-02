@@ -2,6 +2,6 @@
 
 ## Settings
 
-1. python -m pip install pyproj
+1. python3 -m pip install pyproj
 
-Command : python init.py "" ""
+2. Command : python init.py "37.516632" "127.041721"
