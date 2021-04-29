@@ -1,7 +1,11 @@
 # UTM-K-Conversion
 
-## Settings
+### Settings
+```
+$ python3 -m pip install pyproj
+```
 
-1. python3 -m pip install pyproj
-
-2. Command : python init.py "37.516632" "127.041721"
+### runnning code
+```
+python init.py "37.516632" "127.041721"
+```
